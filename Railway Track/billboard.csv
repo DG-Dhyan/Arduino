@@ -1,0 +1,7 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"PIEZO1",1," Piezo"
+"SERVO1, SERVO2",2,"Positional Micro Servo"
+"R1, R2",2,"1 kΩ Resistor"
+"D1",1," LED RGB"
+"PIR1",1," PIR Sensor"
