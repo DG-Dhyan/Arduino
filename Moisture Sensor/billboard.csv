@@ -1,0 +1,9 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"SEN1",1," Soil Moisture Sensor"
+"D1",1,"Red LED"
+"D7",1,"Orange LED"
+"D8",1,"Yellow LED"
+"D9",1,"Green LED"
+"D10",1,"Blue LED"
+"M1",1," DC Motor"
